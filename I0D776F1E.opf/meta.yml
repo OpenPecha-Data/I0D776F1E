@@ -1,0 +1,16 @@
+id: I0D776F1E
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:52:09.983585
+last_modified: 2023-02-09 14:52:09.983696
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: zh
+bases:
+  0B56:
+    base_file: 0B56.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
